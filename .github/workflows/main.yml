@@ -57,7 +57,7 @@ jobs:
           echo 8. Where is the workspace location?
           echo $RUNNER_WORKSPACE
           echo
-          echo 9. Who's runnig this script?
+          echo 9. Who is runnig this script?
           whoami
           echo 10. How is the disc laid out?
           df
