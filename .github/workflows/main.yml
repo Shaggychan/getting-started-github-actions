@@ -44,8 +44,7 @@ jobs:
       
       - name: Step 6 - List Windows Enviroment Variables
         run: env
-          
-     
+               
   #This is the second jobin this workflow is named build on ubuntu
   build-on-ubuntu:
     # The type of runner that the job will run on
